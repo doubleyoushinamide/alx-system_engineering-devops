@@ -1,2 +1,2 @@
 file -C -m school
-file -m school.mgc test.*
+file -m school.mgc *
